@@ -1,0 +1,195 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	background: #415e9b;
+	height: 84px;
+	border:1px solid #133783;
+}
+.header_block{
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.header_block label{
+	color: #FFFFFF;
+}
+.logo{
+	width: 60%;
+	float: left;
+}
+.logo img{
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.facebook_login{
+	width: 40%;
+	float: left;
+}
+.email{
+	float: left;
+}
+.email label{
+	padding-bottom: 10px;
+}
+.email input[type="email"]{
+	height: 22px;
+	width: 150px;
+	border: 1px solid #1d2a5b;
+}
+.password{
+	float: left;
+	margin-left: 15px;
+}
+.password label{
+	padding-bottom: 10px;
+}
+.password a{
+	color: #9cb4d8;
+	text-decoration: none;
+}
+.password input[type="password"]{
+	height: 22px;
+	width: 150px;
+	border: 1px solid #1d2a5b;
+}
+.login_button{
+	float: left;
+	margin-left: 15px;
+
+}
+.login_button input[type="submit"]{
+	background: #4267b2;
+	border: 1px solid #29487d;
+	border-radius: 2px;
+	color: #fff;
+	height: 25px;
+	width: 50px;
+}
+.clearfix{
+	clear: both;
+}
+.content_block{
+	width: 1000px;
+	margin: 0 auto;
+}
+.facebook_content{
+	margin-top: 5px;
+	float: left;
+	width: 50%;
+
+	
+
+}
+.facebook_content p{
+	color: #0e385f;
+	font-size: 21px;
+	font-weight: bold;
+}
+.content_block{
+	
+
+}
+.facebook_content img{
+	 margin-top: 10px;
+	 font-size: px;
+
+}
+.create_account{
+	float: left;
+	width: 50%;
+	
+
+}
+.container{
+	background: linear-gradient(#fff , #d9ddeb);
+	min-height: 600px;
+	margin-left: 20px; 
+
+}
+.create_account h2{
+	font-size: 35px;
+	color: #333333;
+	
+	margin-left: 50px;	
+}
+.create_account .free{
+	font-size: 20px;
+	font-weight: ;
+	
+	margin-bottom: 14px;
+	color: #1d2129;
+	margin-left: 60px;
+
+}
+.account{
+	margin-left: 60px;
+}
+.account input[type="text"]{
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #bdc7d8;
+	width: 171px;
+
+	
+}
+.account .span_text{
+	color: blue;
+	font-size: 12px;
+	margin-left: 10px;
+}
+
+.account input[type="password"]{
+	margin-bottom: 1px;
+	border-radius: 5px;
+	padding: 10px;
+	padding-left: 10px;
+	font-size: 16px;
+	margin-left: 0px;
+	width: 84% !important;
+	border: 1px solid #bdc7d8;
+	
+}
+.account input[type="email"]{
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 16px;
+	margin-left: 0px;
+	width: 84% !important;
+	border: 1px solid #bdc7d8;
+
+}
+.account label{
+	color: #1d2129;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.account a{
+	text-decoration: none;
+
+}
+.account input[type="radio"]{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.account .by_clicking{
+	color: #777777;
+	font-size: 15px;
+}
+.account input[type="submit"]{
+	background: linear-gradient(#94d57a, #65a952);
+	width: 40%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #ffffff;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
